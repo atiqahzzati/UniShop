@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "749277501938",
+    "firebase_url": "https://unishop-system-d70f8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "unishop-system-d70f8",
+    "storage_bucket": "unishop-system-d70f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749277501938:android:1038a1289dea59e89ab36b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_atiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749277501938-je0hdpdu7l364ht9mqk76avdgul61dg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchNK8cUwsY3NiAacWxNLB_VhbjjayEHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749277501938-je0hdpdu7l364ht9mqk76avdgul61dg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749277501938-1htnnr5j4qav1rltkls11gqpkn1i20vb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unishop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749277501938:android:d689a71cf88b889f9ab36b",
+        "android_client_info": {
+          "package_name": "com.example.online_unishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749277501938-je0hdpdu7l364ht9mqk76avdgul61dg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchNK8cUwsY3NiAacWxNLB_VhbjjayEHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749277501938-je0hdpdu7l364ht9mqk76avdgul61dg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749277501938-1htnnr5j4qav1rltkls11gqpkn1i20vb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unishop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749277501938:android:cc5cc1d06ed5d3989ab36b",
+        "android_client_info": {
+          "package_name": "com.example.testsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749277501938-je0hdpdu7l364ht9mqk76avdgul61dg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchNK8cUwsY3NiAacWxNLB_VhbjjayEHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749277501938-je0hdpdu7l364ht9mqk76avdgul61dg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749277501938-1htnnr5j4qav1rltkls11gqpkn1i20vb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unishop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749277501938:android:923e38d9945c39cd9ab36b",
+        "android_client_info": {
+          "package_name": "com.example.unishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749277501938-je0hdpdu7l364ht9mqk76avdgul61dg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchNK8cUwsY3NiAacWxNLB_VhbjjayEHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749277501938-je0hdpdu7l364ht9mqk76avdgul61dg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749277501938-1htnnr5j4qav1rltkls11gqpkn1i20vb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unishop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
